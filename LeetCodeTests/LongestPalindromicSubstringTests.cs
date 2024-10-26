@@ -1,6 +1,6 @@
 using LeetCode;
 
-namespace TestProject1;
+namespace LeetCodeTests;
 
 public class LongestPalindromicSubstringTests
 {
